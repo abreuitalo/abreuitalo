@@ -3,11 +3,10 @@
   <a href="https://github.com/abreuitalo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abreuitalo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuitalo&layout=compact&langs_count=7&theme=highcontrast"/> !-->
-</div>
+    </div>
  
   ##
   
-  <img align="center" height="40" width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/hammer-and-wrench_1f6e0.png">
   <!-- skills !-->
   <div style="display: inline_block"><br>
   <img align="center" alt="Italo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
