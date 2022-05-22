@@ -11,5 +11,5 @@
     </div>
   
   ## 
-  [![Linkedin: abreuitalo](https://img.shields.io/badge/-abreuitalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abreuitalo/)](https://www.linkedin.com/in/abreuitalo/)
+  [![Linkedin: abreuitalo](https://img.shields.io/badge/-abreuitalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abreuitalo/)](https://www.linkedin.com/in/ítalo-abreu-7711b3198/)
  
