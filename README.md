@@ -13,6 +13,6 @@
   ## 
   
   <div>
-  <a href="[https://www.linkedin.com/in/ítalo-leite-7711b3198](https://www.linkedin.com/in/%C3%ADtalo-abreu-7711b3198/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ítalo-leite-7711b3198](https://www.linkedin.com/in/%C3%ADtalo-abreu-7711b3198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5562985552692&text=Ol%C3%A1,%20como%20posso%20ajudar%253F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   </div>
