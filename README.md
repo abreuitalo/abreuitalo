@@ -10,7 +10,7 @@ Linguagens e Frameworks: C#, .NET Framework, Entity Framework
 
 Bancos de Dados: SQL Server.
 
-Ferramentas de Desenvolvimento: Insomnia, Postman
+Ferramentas de Desenvolvimento: Insomnia, Postman, Visual Studio, VS Code
 
 Boas Práticas: Implementação de princípios SOLID, Clean Code, padrões de projeto, desenvolvimento ágil (Scrum) e versionamento de código.
 
