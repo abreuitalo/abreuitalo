@@ -2,7 +2,19 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Italo Abreu.
+Me chamo Italo, Desenvolvedor .NET entusiasta por tecnologia e focado em transformar desafios de negócios em soluções de software eficientes.
+
+Com experiência na análise, desenvolvimento e manutenção de aplicações web, tenho atuado principalmente com:
+
+Linguagens e Frameworks: C#, .NET Framework, Entity Framework
+
+Bancos de Dados: SQL Server.
+
+Ferramentas de Desenvolvimento: Insomnia, Postman
+
+Boas Práticas: Implementação de princípios SOLID, Clean Code, padrões de projeto, desenvolvimento ágil (Scrum) e versionamento de código.
+
+Meu objetivo é construir e manter sistemas de alta qualidade, garantindo performance e escalabilidade.
 
 ---
 
